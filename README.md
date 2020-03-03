@@ -1,11 +1,6 @@
 # Biz-Directory
 
-Languages used:
-PHP
-MySQL
-HTML
-CSS
-JavaScript
+Languages used: PHP, MySQL, HTML, CSS, JavaScript
 
 This portal is a B-BBEE grading system and has a search directory. It has a client and admin side. 
 
