@@ -17,3 +17,6 @@ also select desired company to engage with as admin and send requests as you wis
 Admin has the rights to grade or degrade a companys B-BBEE score. The system has an algorithm that checks through these factors; 
 gender, race and age. A grade is given according to the B-BBEE regulation. 
 Altogether you can add, edit and delete a company from this side.
+
+
+Project is not fully complete.
