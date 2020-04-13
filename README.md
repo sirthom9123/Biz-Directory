@@ -22,7 +22,7 @@ Altogether you can add, edit and delete a company from this side.
 Project is not fully complete.
 
 Try to sign up and lets see how it goes.
-https://qrair.co.za/biz/register.php
+https://qrair.co.za/biz/
 
 https://qrair.co.za/biz/admin
 
